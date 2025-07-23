@@ -1,4 +1,4 @@
-python-3.10.12
+python
 pillow==10.1.0
 gunicorn==21.2.0
 Flask==2.3.3
