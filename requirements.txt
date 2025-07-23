@@ -1,3 +1,6 @@
+python-3.10.12
+pillow==10.1.0
+gunicorn==21.2.0
 Flask==2.3.3
 Pillow==10.2.0
 opencv-python==4.9.0.80

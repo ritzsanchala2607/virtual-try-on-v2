@@ -1,3 +1,0 @@
-python-3.10.12
-pillow==10.1.0
-gunicorn==21.2.0
